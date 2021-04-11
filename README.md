@@ -19,5 +19,5 @@ Picture2_Updated_PerSchoolSummary![image](https://user-images.githubusercontent.
 
 ## Summary 
 
-In terms of four majors changes, I would not technically call them "major changes"---as i previously stated, there is only slight/minute changes between the original and updated data frames (replacing 9th grade THS reading and math scores with NaNs). In the screen captures displayed above---you can see the changes that can be seen are in the columns AVERAGE MATH SCORES, AVERAGE READING SCORES, % PASSING MATH AND % PASSING READING, AND OVERALL PASSING. Based off the two data sets, my assupmtion is that replacing dishonest Thomas High School 9th graders' scores with NaNs did not have a major/ significant impact on the datasframes.
+In terms of four majors changes, I would not technically call them "major changes"---as i previously stated, there is only slight/minute changes between the original and updated data frames (replacing 9th grade THS reading and math scores with NaNs). In the screen captures displayed above---you can see the changes that can be seen are in the columns AVERAGE MATH SCORES, AVERAGE READING SCORES, % PASSING MATH AND % PASSING READING, AND OVERALL PASSING. Based off the two data sets, my assupmtion is that replacing the dishonest Thomas High School 9th graders' scores with NaNs did not have a major/ significant impact on the datasframes.
 
