@@ -10,7 +10,7 @@ The original Per School Summary Dataframe dislays a very minute/ slight numeric 
 
 You will be able to visualize that not much of the entire datasheet has been affected. 
 
-### Screen Captures of the Original Dataframe and the Updated/New Dataframe.
+## Screen Captures of the Original Dataframe and the Updated/New Dataframe.
 Picture1_Original_PerSchoolSummary![image](https://user-images.githubusercontent.com/80291340/114289025-7c057080-9a29-11eb-93a6-14bcf7903d8e.png)
 
 
